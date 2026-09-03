@@ -1,5 +1,5 @@
 
-# 🎭 Mad Libs Game — Python
+# Mad Libs Game — Python
 
 Un jeu **Mad Libs** développé en Python dans lequel le joueur complète une histoire en fournissant différents mots : adjectifs, verbes, noms, lieux, émotions, etc.
 
@@ -37,21 +37,8 @@ madlibs/
 
 
 ```bash
-git clone https://github.com/Aaziz/madlibs.git
+git clone https://github.com/Aaziz14/madlibs.git
 ```
-## 💡 Améliorations futures
-
-Plusieurs fonctionnalités pourraient être ajoutées dans les prochaines versions :
-
-* [ ] Ajouter davantage d'histoires
-* [ ] Permettre au joueur de choisir son histoire
-* [ ] Ajouter un menu principal
-* [ ] Ajouter plusieurs niveaux de difficulté
-* [ ] Sauvegarder les histoires générées
-* [ ] Ajouter une interface graphique
-* [ ] Ajouter une version web
-* [ ] Ajouter des illustrations
-* [ ] Ajouter un système de score
 
 ## Sani Maman Abdoul Aziz
 
